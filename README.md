@@ -80,9 +80,9 @@ DEEPSEEK_API_KEY=<DeepSeek API Key>
 ## 项目结构
 
 Jenkins-Log-Analyzer/              
- ├── [main.py](http://_vscodecontentref_/1)          # 主程序文件                    
- ├── .env                                            # 环境变量配置文件                                      
- ├── [README.md](http://_vscodecontentref_/2)        # 项目说明文档                                               
+ ├── main.py         # 主程序文件                    
+ ├── .env            # 环境变量配置文件                                      
+ ├── README.md       # 项目说明文档                                               
 
 ## 常见问题
 
